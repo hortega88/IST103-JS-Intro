@@ -25,3 +25,13 @@ let toDoList = [
   "Go a VPL",
   "Exercise at home",
 ];
+
+let myFarInfraredHeater = {
+  brand: "Home Accents",
+  color: "Black",
+  isWork: false,
+  height: 0.8,
+};
+
+console.log("My second to do is: " + toDoList[2]);
+console.log("My Heater Brand is: " + myFarInfraredHeater.brand);
