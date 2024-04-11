@@ -16,3 +16,12 @@ console.log("Height is " + vHeight);
 console.log("Is he Live? is " + vIsLive);
 console.log("His age is " + vAge);
 console.log("He was born in " + placeBirth + " city");
+
+//Activity 3
+
+let toDoList = [
+  "Activities Class",
+  "Looking jobs",
+  "Go a VPL",
+  "Exercise at home",
+];
