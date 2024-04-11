@@ -10,3 +10,9 @@ let vIsLive = true;
 let vAge = 35;
 
 const placeBirth = "Manta";
+
+console.log("Person Name is " + vName);
+console.log("Height is " + vHeight);
+console.log("Is he Live? is " + vIsLive);
+console.log("His age is " + vAge);
+console.log("He was born in " + placeBirth + " city");
